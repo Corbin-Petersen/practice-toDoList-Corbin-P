@@ -1,0 +1,29 @@
+#root {
+    width: 75vw;
+    margin: auto;
+    padding: 20px;
+}
+
+ul {
+    list-style-type: square;
+}
+
+li {
+    padding: 10px;
+    margin: 10px 0px;
+    border: 1px solid white;
+    font-family: "Underdog", sans-serif;
+    font-weight: 400;
+}
+
+li:hover {
+    background-color: gray;
+}
+
+/* google font code */
+.underdog-regular {
+    font-family: "Underdog", system-ui;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
